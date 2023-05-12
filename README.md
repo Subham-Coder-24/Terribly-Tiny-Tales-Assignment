@@ -1,6 +1,12 @@
 # Terribly-Tiny-Tales-Assignment
 
 
+## 🔗 Live
+[![Assignment](https://mma.prnewswire.com/media/1099201/Netlify_Logo.jpg?w=100)](https://spiffy-starburst-865479.netlify.app/)
+
+
+## Important (Assigment Live Link)
+https://spiffy-starburst-865479.netlify.app/
 
 ## Running Tests
 
@@ -17,9 +23,6 @@ To run tests, run the following command
 - Download File CSV file
 - Online Hosted
 
-
-## 🔗 Links
-[![Assignment](https://mma.prnewswire.com/media/1099201/Netlify_Logo.jpg?w=100)](https://spiffy-starburst-865479.netlify.app/)
 
 
 # Main Page
