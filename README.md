@@ -19,7 +19,7 @@ To run tests, run the following command
 
 
 ## 🔗 Links
-[![Assignment](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://spiffy-starburst-865479.netlify.app/)
+[![Assignment](https://mma.prnewswire.com/media/1099201/Netlify_Logo.jpg?w=200)](https://spiffy-starburst-865479.netlify.app/)
 
 
 # Main Page
